@@ -1,0 +1,12 @@
+# Byte-compiled files
+__pycache__/
+
+# Distribution / packaging
+*.egg-info/
+
+# virtual environments
+.venv/
+
+# Vim related
+*.swp
+*~
