@@ -1,14 +1,24 @@
-# NLPCSE4022_Sample_Code
+# Natural Language Processing (NLPCSE4022) Complementary ipython notebooks and python scripts 
 Complimentary code for NLP CSE4022 Course at VIT Vellore
 - Module 1 : **Introduction to NLP**
+    - Stages and Ambiguities of NLP
+    - Stemming and Lemmatization
 - Modul 2 : **Text Processing**
+    - Character Encoding Detection
+    - Language Detection
+    - Word Segmentation
+    - Sentence Segmentation
+    - Minimum Edit Distance
+    - Regular Expression
 - Module 3 : **Morphology**
 - Module 4 : **Lexical Analysis**
+    - Parts-of-Speech Tagging (POS tagging)
 - Module 5 : **Language Modeling**
 - Module 6 : **Syntax and Semantics**
 - Module 7 : **Application of NLP**
+    - Text Classification 
     - Text Summarization
     - Sentiment Analysis
     - Machine Translation
-    - Question Snswering
+    - Question Answering
 - Module 8 : **Recent Trends**
