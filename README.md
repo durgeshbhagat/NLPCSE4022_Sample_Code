@@ -31,7 +31,7 @@
  ### Online Courses
 
 ## Related Journals Conferences & Workshops
-    ### Conferences
+### Conferences
     - Annual Meeting of the Association for Computational Linguistics (ACL)
     - Conference on Empirical Methods in Natural Language Processing (EMNLP)
     - ACM International Conference on Research and Development in Information Retrieval (SIGIR)
