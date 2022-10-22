@@ -29,8 +29,16 @@
  ### Books
  
  ### Online Courses
-
+  **Coursera**
+  
+  #### 1.Natural Language Processing Specialization https://www.coursera.org/specializations/natural-language-processing | 4.6stars | 4,393 ratings
+        - 1.1 Natural Language Processing with Classification and Vector Spaces | 4.6stars | 3,582 ratings 
+        - 1.2 Natural Language Processing with Probabilistic Models | 4.7stars  | 1,394 ratings
+        - 1.3 Natural Language Processing with Sequence Models  | 4.5 | 921 ratings
+        - 1.4 Natural Language Processing with Attention Models | 4.3 | 788 ratings
+  
 ## Related Journals Conferences & Workshops
+
 ### Conferences
     - Annual Meeting of the Association for Computational Linguistics (ACL)
     - Conference on Empirical Methods in Natural Language Processing (EMNLP)
