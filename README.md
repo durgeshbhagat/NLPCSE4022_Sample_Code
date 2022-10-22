@@ -25,6 +25,7 @@
 
 ## NLP resources
  ### Video Lectures
+ - CS 124 : From Language to Information - by Prof. Dan Jurafsky | https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA | https://web.stanford.edu/class/cs124/#information
  
  ### Books
  
@@ -40,7 +41,7 @@
   **AMAZON**
    Accelerated NAtural Language Processing by AWS Machine Learning University
    - https://www.youtube.com/watch?v=0FXKbEgz-uU&list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw&index=1 | https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp 
-   - 
+   
 ## Related Journals Conferences & Workshops
 
 ### Conferences
