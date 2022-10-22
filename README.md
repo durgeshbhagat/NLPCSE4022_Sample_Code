@@ -37,6 +37,10 @@
         - 1.3 Natural Language Processing with Sequence Models  | 4.5 | 921 ratings
         - 1.4 Natural Language Processing with Attention Models | 4.3 | 788 ratings
   
+  **AMAZON**
+   Accelerated NAtural Language Processing by AWS Machine Learning University
+   - https://www.youtube.com/watch?v=0FXKbEgz-uU&list=PL8P_Z6C4GcuWfAq8Pt6PBYlck4OprHXsw&index=1 | https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp 
+   - 
 ## Related Journals Conferences & Workshops
 
 ### Conferences
