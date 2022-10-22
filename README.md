@@ -24,7 +24,7 @@
 - Module 8 : **Recent Trends**
 
 ## NLP resources
- ### Video Leactures
+ ### Video Lectures
  
  ### Books
  
