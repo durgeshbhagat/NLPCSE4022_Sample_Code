@@ -84,4 +84,24 @@
 
 ## Popular Datasets for NLP Task
   Question Answering | https://ai.google.com/research/NaturalQuestions/dataset |
+  
+## Popular Libraries for NLP
+    - Hugging face Transformer | 57.1 K
+    - SpaCy | 22.2 K
+    - Fairseq | 15.1 K
+    - Gensim | 12.8 K
+    - Flair | 11.2 K
+    - Allen NLP | 10.8 K
+    - NLTK | 10.4 K
+    - CoreNLP | 8.3 K
+    - Pattern | 8.1 K
+    - TextBlob | 8 K
+    - Hugging Face Tokenizer | 5.2 K
+    - Haystack | 3.8 K
+    - Snips NLU | 3.6 K
+    - NLP architect | 2.8 K
+    - Pytorch-NLP | 2 K
+    - sklearn | 48.6 K
+    - pandas | 32.4 K
+    
 
