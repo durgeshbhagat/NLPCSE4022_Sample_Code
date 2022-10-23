@@ -57,12 +57,22 @@
     - Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)
     - International Conference on Computational Linguistics (COLING)
     - International Joint Conference on Natural Language Processing (IJCNLP)
+    - Neural Information Processing Systems (NeurIPS)
+    - Association for the Advancement of Artificial Intelligence (AAAI)
+    - International Conference on Machine Learning (ICML)
+    - International Conference on Data Mining (ICDM)
     - Interspeech
     - IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)
     - IEEE Workshop on Spoken Language Technology (SLT)
     - Annual SIGdial Meeting on Discourse and Dialogue (SIGdial)
     - International Conference on Language Resources and Evaluation (LREC)
     - International Workshop on Spoken Dialog Systems (IWSDS)
+
+### Journals
+    - Journal of Computational Linguistics
+    - Transactions of the Association for Computational Linguistics
+    - Journal of Information Retrieval
+    - Journal of Machine Learning
 
 ## Shared Tasks
 - The SIGNLL Conference on Computational Natural Language Learning (CoNLL)
