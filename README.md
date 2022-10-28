@@ -41,6 +41,13 @@
         - 1.3 Natural Language Processing with Sequence Models  | 4.5 | 921 ratings
         - 1.4 Natural Language Processing with Attention Models | 4.3 | 788 ratings
         
+  ### Sequqnce Models https://www.coursera.org/learn/nlp-sequence-models | 4.8 starts | 28,495 ratings
+      by Andrew NG, Kian Katanforoosh, Younes Bensouda Mourri
+      - Week 1: Recurrent Neural Networks
+      - Week 2: Natural Language Processing & Word Embeddings
+      - Week 3: Sequence Models & Attention Mechanism
+      - Week 4: Transformer Network
+        
   **Udemy**
   
   Question Generation using Natural Language processing by Ramsri Golla https://www.udemy.com/course/question-generation-using-natural-language-processing/
