@@ -27,6 +27,9 @@
  ### Video Lectures
  - CS 124 : From Language to Information - by Prof. Dan Jurafsky | https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA | https://web.stanford.edu/class/cs124/#information
  
+ ### Slides
+ - Dan Jurafksy Standford Coursera Course 2012 https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html 
+ 
  ### Books
  
  ### Online Courses
