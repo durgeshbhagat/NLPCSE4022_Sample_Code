@@ -47,11 +47,22 @@
       - Week 2: Natural Language Processing & Word Embeddings
       - Week 3: Sequence Models & Attention Mechanism
       - Week 4: Transformer Network
-  #### 3. Build, Train, and Deploy ML Pipelines using BERT https://www.coursera.org/learn/ml-pipelines-bert | 4.6 | 103 ratings   
+  #### 3. Build, Train, and Deploy ML Pipelines using BERT https://www.coursera.org/learn/ml-pipelines-bert | 4.6 stars | 103 ratings 
+   
         
   **Udemy**
   
-  Question Generation using Natural Language processing by Ramsri Golla https://www.udemy.com/course/question-generation-using-natural-language-processing/
+  #### 1. Question Generation using Natural Language processing by Ramsri Golla https://www.udemy.com/course/question-generation-using-natural-language-processing/
+  
+  #### 2. Natural language Processing with Python https://www.udemy.com/course/nlp-natural-language-processing-with-python/ | 4.6 stars | 12,059 ratings
+  
+  #### 3. Natural Language Processing: NLP With Transformers in Python https://www.udemy.com/course/nlp-with-transformers/  |  4.5 stars | 974 ratings
+
+  #### 4. Natural Language Processing (NLP) in Python with 8 Projects https://www.udemy.com/course/complete-natural-language-processing-nlp-with-spacy-nltk/ | 4.4 | 359 ratings
+  
+  #### 5. 2022 Natural Language Processing in Python for Beginners https://www.udemy.com/course/nlp-in-python/ | 4.5 stars | 974 ratings
+  
+  #### 6. Learn BERT - most powerful NLP algorithm by Google | https://www.udemy.com/course/bert-nlp-algorithm/ | 3.9 | 6208 ratings
   
   **AMAZON**
    Accelerated NAtural Language Processing by AWS Machine Learning University
